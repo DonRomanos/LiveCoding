@@ -1,0 +1,9 @@
+/build/*
+/install/*
+/build*
+/out/*
+!build.py
+CMakeSettings.json
+/.vs/*
+/.vscode/*
+!/.vscode/tasks.json
