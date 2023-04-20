@@ -1,0 +1,8 @@
+add_executable(1_lambda_properties 1_lambda_properties.cpp)
+add_executable(2_iife 2_iife.cpp)
+add_executable(3_lambda_template 3_lambda_template.cpp)
+add_executable(4_lambda_overload_set 4_lambda_overload_set.cpp)
+add_executable(5_recursive_lambdas 5_recursive_lambdas.cpp)
+add_executable(6_unique_types.cpp 6_unique_types.cpp)
+add_executable(7_constexpr_function_parameters 7_constexpr_function_parameters.cpp)
+add_executable(8_fun main.cpp)
