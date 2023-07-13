@@ -8,3 +8,4 @@ CMakeSettings.json
 /.vs/*
 /.vscode/*
 !/.vscode/tasks.json
+**/build/*
